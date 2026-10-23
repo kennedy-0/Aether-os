@@ -8,6 +8,9 @@
   Uma interface de inicialização futurista para jogos retrô, inspirada na estética cyberpunk e no neon roxo.
 </p>
 
+<div style="display: flex; gap:30px;">
+    <img src="img/tela.jpg" width="250">
+</div>
 ## Sobre o projeto
 
 O **AetherOS** é um projeto desenvolvido em Python que apresenta uma interface personalizada para sistemas de jogos retrô. Seu objetivo é proporcionar uma experiência visual imersiva, combinando animações, pixel art e integração com controles para iniciar o RetroArch.
