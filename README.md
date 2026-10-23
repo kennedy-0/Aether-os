@@ -53,16 +53,16 @@ sudo apt install python3 python3-tk python3-pygame retroarch
 
 ### 3. Execute o projeto
 
-Se o arquivo principal se chamar `main.py`:
+Se o arquivo principal se chamar `AetherOs.py`:
 
 ```bash
-python3 main.py
+python3 AetherOs.py
 ```
 
 Para executar em uma janela, em vez de tela cheia:
 
 ```bash
-python3 main.py --windowed
+python3 AetherOs.py --windowed
 ```
 
 ## 🎮 Controles
