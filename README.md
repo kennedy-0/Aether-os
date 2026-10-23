@@ -9,7 +9,7 @@
 </p>
 
 <div style="display: flex; gap:30px;">
-    <img src="img/tela.jpg" width="250">
+    <img src="Imgs/Aether_front.jpeg" width="250">
 </div>
 ## Sobre o projeto
 
